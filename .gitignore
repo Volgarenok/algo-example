@@ -1,4 +1,5 @@
 *.o
 *.d
 bind-example
-cmd-example
+cmd1-example
+cmd2-example
