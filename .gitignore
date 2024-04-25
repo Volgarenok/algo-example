@@ -1,0 +1,4 @@
+*.o
+*.d
+bind-example
+cmd-example
